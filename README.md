@@ -39,3 +39,5 @@ An end-to-end data analytics project, analyzing 3,900 customer transactions usin
   Highlight top-rated and best-selling products in campaigns.  
 - Targeted Marketing
   Focus efforts on high-revenue age groups and express-shipping users. 
+
+### source: kaggle dataset
