@@ -154,7 +154,7 @@ Developed an interactive dashboard to visualize:
 ## Conclusion
 This project demonstrates the complete analytics lifecycle, from raw data preparation to business intelligence reporting. By combining Python, SQL, and Power BI, the analysis provides actionable insights into customer behaviour, purchasing patterns, and revenue drivers, enabling data-driven decision-making.
 
-dataset source: kaggle
+dataset source: kaggle - Customer Behavior Analysis ( https://share.google/LJfHPZtUbzz6psooF )
 
 
 
