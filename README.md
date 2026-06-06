@@ -1,8 +1,8 @@
 # Customer Shopping Behaviour Analysis
 
 ## Overview
-This end-to-end Data Analytics project explores customer shopping behaviour using transactional data from 3,900 purchases across multiple product categories. The objective was to uncover patterns in customer spending, product preferences, subscription behaviour, and purchasing habits to support data-driven business decisions.
-The project follows a complete analytics workflow involving data cleaning and feature engineering in Python, business analysis using SQL, and interactive dashboard creation in Power BI.
+This is an end-to-end Data Analytics project. Explored customer shopping behaviour using transactional data from 3,900 purchases across multiple product categories. The objective was to uncover patterns in customer spending, product preferences, subscription behaviour, and purchasing habits to support data-driven business decisions.
+Followed a complete analytics workflow involving data cleaning and feature engineering in Python, business analysis using SQL, and interactive dashboard creation in Power BI.
 
 ## Problem Statement
 Retail businesses generate large volumes of customer transaction data, but extracting meaningful insights from this information can be challenging. This project aims to analyze customer demographics, purchasing behaviour, and product performance to identify opportunities for improving customer retention, revenue growth, and marketing effectiveness.
