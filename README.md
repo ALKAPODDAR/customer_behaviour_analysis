@@ -42,7 +42,7 @@ Performed SQL analysis to answer key business questions:
 - Product performance within categories
 
 ### Step 3: Dashboarding
-Developed an intuitive  dashboard:
+Developed an intuitive  dashboard to track down:
 - Revenue trends
 - Customer demographics
 - Product category performance
