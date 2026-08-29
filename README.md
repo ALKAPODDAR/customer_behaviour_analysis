@@ -12,7 +12,7 @@ Retail businesses generate large volumes of customer transaction data, but extra
 - Features: 18
 
 ## Key Attributes
-- Customer Demographics (Age | Gender | Location), Subscription Status, Product Categories, Purchase Amount, Purchase Frequency, Discount Usage, Shipping Type, Review Ratings, Seasonal Purchasing Trends
+- Customer Demographics (Age | Gender | Location), Subscription Status, Product Categories, Purchase Amount, Purchase Frequency, Discount Usage, Shipping Type, Review Ratings, Seasonal Purchasing Trends.
 
 ## Tools & Technologies
 - Python (Pandas, NumPy), Jupyter Notebook, MySQL, MySQL Workbench, Microsoft PowerBI (Power Query, DAX)
