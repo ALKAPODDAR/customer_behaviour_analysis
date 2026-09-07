@@ -32,19 +32,19 @@ Performed analysis in MySQL to extract insights and answer the business ques:
 **Step 3: Dashboarding:**
 Developed an intuitive  dashboard to track down revenue trends, customer demographics, product category performance, subscription behaviour, customer segments, discount usage patterns, shipping preferences.
 - Dashboard Features:
-1. Executive Dashboard - total revenue, avg purchase value, total customers, subscription %, discount usage %
-2. Customer Behaviour Analysis - revenue by gender, age group; customer segmentation, repeat buyers vs subscribers, purchase frequency analysis
-3. Product Performance - revenue by category, top products by rating, product-wise revenue analysis, discount dependency analysis
-4. Operational Insights - shipping type comparison, review rating analysis, customer purchase patterns
+- Executive Dashboard - total revenue, avg purchase value, total customers, subscription %, discount usage %
+- Customer Behaviour Analysis - revenue by gender, age group; customer segmentation, repeat buyers vs subscribers, purchase frequency analysis
+- Product Performance - revenue by category, top products by rating, product-wise revenue analysis, discount dependency analysis
+- Operational Insights - shipping type comparison, review rating analysis, customer purchase patterns
 
 
 **Key Business Insights:**
-1. Non-subscribers generated ~3X higher revenue than subscribers
-2. Repeat buyers are not likely to subscribe
-3. 'Young Adult' contributed ~27% to total revenue - focus marketing campaigns and personalized offers 
-4. ~50% of 'Hat' are purchased on discount, customers are more likely to buy them when promotions are available
-5. jewelry, blouse, pants, sandals, jacket are top products sold within each category, optimize inventory
-6. On an average, people are willing to spend more on express deliveries 
+- Non-subscribers generated ~3X higher revenue than subscribers
+- Repeat buyers are not likely to subscribe
+- 'Young Adult' contributed ~27% to total revenue - focus marketing campaigns and personalized offers 
+- ~50% of 'Hat' are purchased on discount, customers are more likely to buy them when promotions are available
+- Jewelry, blouse, pants, sandals, jacket are top products sold within each category, optimize inventory
+- On an average, people are willing to spend more on express deliveries 
 
 **Overall recommendation:**
 Since non-subscribers currently drive 3X more revenue than subscribers and repeat buyers are avoiding the subscription altogether, the business should pause aggressive subscriber-acquisition spend and instead run a quick profitability/behavioral audit to understand whether the subscription program's discounts and rigid structure are capping spend rather than growing it — while in parallel, doubling down on what's clearly working: building a dedicated 'Young Adult' segment with personalized, socially-driven campaigns (27% of revenue), using discount-sensitive items like Hats as promotional traffic-drivers rather than margin products, safeguarding inventory for proven top sellers (jewelry, blouse, pants, sandals, jacket), and capturing the low-risk upside in express delivery by testing higher price tiers, since customers have already shown willingness to pay more for speed.
