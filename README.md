@@ -41,7 +41,7 @@ Developed an intuitive  dashboard to track down revenue trends, customer demogra
 **Key Business Insights:**
 - Non-subscribers generated ~3X higher revenue than subscribers
 - Repeat buyers are not likely to subscribe
-- 'Young Adult' contributed ~27% to total revenue - focus marketing campaigns and personalized offers 
+- 'Young Adult' contributed ~27% of total revenue - focus marketing campaigns and personalized offers 
 - ~50% of 'Hat' are purchased on discount, customers are more likely to buy them when promotions are available
 - Jewelry, blouse, pants, sandals, jacket are top products sold within each category, optimize inventory
 - On an average, people are willing to spend more on express deliveries 
