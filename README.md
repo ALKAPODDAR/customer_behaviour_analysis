@@ -32,14 +32,10 @@ Performed analysis in MySQL to extract insights and answer the business ques:
 **Step 3: Dashboarding**
 Developed an intuitive  dashboard to track down revenue trends, customer demographics, product category performance, subscription behaviour, customer segments, discount usage patterns, shipping preferences.
 - Dashboard Features:
-1. Executive Dashboard
-- Total Revenue, Average Purchase Value, Total Customers, Subscription Percentage, Discount Usage Percentage
-2. Customer Behaviour Analysis
-- Revenue by Gender, Revenue by Age Group, Customer Segmentation, Repeat Buyers vs Subscribers, Purchase Frequency Analysis
-3. Product Performance
-- Revenue by Category, Top Products by Rating, Product-wise Revenue Analysis, Discount Dependency Analysis
-4. Operational Insights
-- Shipping Type Comparison, Review Rating Analysis, Customer Purchase Patterns
+1. Executive Dashboard - total revenue, avg purchase value, total customers, subscription %, discount usage %
+2. Customer Behaviour Analysis - revenue by gender, age group; customer segmentation, repeat buyers vs subscribers, purchase frequency analysis
+3. Product Performance - revenue by category, top products by rating, product-wise revenue analysis, discount dependency analysis
+4. Operational Insights - shipping type comparison, review rating analysis, customer purchase patterns
 
 
 **Key Business Insights:**
